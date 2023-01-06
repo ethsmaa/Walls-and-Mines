@@ -1,0 +1,15 @@
+/Users/esmaoruc/Projects/project3-walls and mines/bin/Debug/net7.0/project3-walls and mines
+/Users/esmaoruc/Projects/project3-walls and mines/bin/Debug/net7.0/project3-walls and mines.deps.json
+/Users/esmaoruc/Projects/project3-walls and mines/bin/Debug/net7.0/project3-walls and mines.runtimeconfig.json
+/Users/esmaoruc/Projects/project3-walls and mines/bin/Debug/net7.0/project3-walls and mines.dll
+/Users/esmaoruc/Projects/project3-walls and mines/bin/Debug/net7.0/project3-walls and mines.pdb
+/Users/esmaoruc/Projects/project3-walls and mines/obj/Debug/net7.0/project3-walls and mines.csproj.AssemblyReference.cache
+/Users/esmaoruc/Projects/project3-walls and mines/obj/Debug/net7.0/project3-walls and mines.GeneratedMSBuildEditorConfig.editorconfig
+/Users/esmaoruc/Projects/project3-walls and mines/obj/Debug/net7.0/project3-walls and mines.AssemblyInfoInputs.cache
+/Users/esmaoruc/Projects/project3-walls and mines/obj/Debug/net7.0/project3-walls and mines.AssemblyInfo.cs
+/Users/esmaoruc/Projects/project3-walls and mines/obj/Debug/net7.0/project3-walls and mines.csproj.CoreCompileInputs.cache
+/Users/esmaoruc/Projects/project3-walls and mines/obj/Debug/net7.0/project3-walls and mines.dll
+/Users/esmaoruc/Projects/project3-walls and mines/obj/Debug/net7.0/refint/project3-walls and mines.dll
+/Users/esmaoruc/Projects/project3-walls and mines/obj/Debug/net7.0/project3-walls and mines.pdb
+/Users/esmaoruc/Projects/project3-walls and mines/obj/Debug/net7.0/project3-walls and mines.genruntimeconfig.cache
+/Users/esmaoruc/Projects/project3-walls and mines/obj/Debug/net7.0/ref/project3-walls and mines.dll
